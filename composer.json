@@ -1,7 +1,7 @@
 {
-    "name": "omalizadeh/laravel-multi-payment",
+    "name": "phrshteh/laravel-multi-payment",
     "description": "A driver-based laravel package for online payments via multiple gateways",
-    "homepage": "https://github.com/omalizadeh/laravel-multi-payment",
+    "homepage": "https://github.com/phrshteh/laravel-multi-payment",
     "type": "library",
     "license": "MIT",
     "keywords": [
